@@ -1,6 +1,6 @@
 Name     : golang-github-naoina-go-stringutil
 Version  : 0.1.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/naoina/go-stringutil/archive/v0.1.0.tar.gz
 Source0  : https://github.com/naoina/go-stringutil/archive/v0.1.0.tar.gz
 Summary  : No detailed summary available
